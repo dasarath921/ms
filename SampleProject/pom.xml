@@ -12,6 +12,7 @@
 	<artifactId>SampleProject</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>SampleProject</name>
+		<packaging>war</packaging>
 	<description/>
 	<url/>
 	<licenses>
