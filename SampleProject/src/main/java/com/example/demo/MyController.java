@@ -12,7 +12,7 @@ public class MyController {
 	}
 
  @GetMapping("/")
-	public String msg() {
+	public String msg1() {
 		return "Message from  Sample Project";
 	}
 
