@@ -11,4 +11,9 @@ public class MyController {
 		return "Message from MyController Sample Project";
 	}
 
+ @GetMapping("/")
+	public String msg() {
+		return "Message from  Sample Project";
+	}
+
 }
