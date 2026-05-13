@@ -1,1 +1,2 @@
 webhooks are used to trigger the git repo automatically when code is updated
+poll scm is used to trigger the git repo perdoically if code changes it will built
